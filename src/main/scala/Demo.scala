@@ -1,8 +1,9 @@
+
 object Demo {
   def main(args: Array[String]) {
-    val pt = new Point(10, 20)
+    val loc = new Location(10, 20, 15)
 
     // Move to a new location
-    pt.move(10, 10)
+    loc.move(10, 10, 5)
   }
 }
