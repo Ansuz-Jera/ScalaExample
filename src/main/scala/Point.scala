@@ -1,3 +1,4 @@
+//Como Location paso a ser una subclase de Point, ahora esta pasa a ser una Superclass
 class Point(xc: Int, yc: Int) {
   var x: Int = xc
   var y: Int = yc
