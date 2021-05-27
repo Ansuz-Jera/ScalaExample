@@ -13,7 +13,7 @@ anteriormente. Puede usar el siguiente item del carrito de compras como ejemplo:
 $10.99 con un stock de 5 unidades.
 */
 
-object ClassesAndFunctions {
+object ClassesAndFunctions1 {
   def main(args: Array[String]): Unit = {
     //Solución usando Funciones
     val tupleItem: (String, Double, Int) = ("Paquete de arroz", 10.99, 5) //tupleItem(name, price, stock)
