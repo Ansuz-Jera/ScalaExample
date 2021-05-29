@@ -1,3 +1,7 @@
+package ClassesExamples
+
+
+
 /*
 Problem 2: Write a Scala program and use a case class to define a shopping cart item.
 Each shopping cart item should have the following properties, namely, a name, a price,

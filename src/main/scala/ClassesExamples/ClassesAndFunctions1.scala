@@ -1,3 +1,7 @@
+package ClassesExamples
+
+
+
 /*
 Classes, Functions, Traits
 
