@@ -21,7 +21,6 @@ object ExampleMaps {
 
     println(listOne.flatMap(x => List(x, x + 1))) //flatMap ejecuja un map y al mismo tiempo un flatten
 
-
     for(line : String <- file.getLines()){
       val column : Array[String] = line.split(";")
         .map(_.trim)                            // .map(_.trim) == .map(p => p.trim)
